@@ -24,7 +24,7 @@ Chojan Shang - [@PsiACE](https://github.com/PsiACE) - <psiace@outlook.com>
 **赞助相关**：
 
 - Paypal: [https://paypal.me/psiace](https://paypal.me/psiace)
-- Afdian: [https://https://afdian.net/@psiace](https://afdian.net/@psiace) [爱发电 - 国内]
+- Afdian: [https://afdian.net/@psiace](https://afdian.net/@psiace) [爱发电 - 国内]
 
 ### 许可协议
 
