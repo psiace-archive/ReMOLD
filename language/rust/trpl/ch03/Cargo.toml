@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "datatypes",
+    "functions",
+    "variables",
+    "comments",
+    "controls",
+]
