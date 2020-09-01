@@ -15,6 +15,17 @@ Hi, 这里是 Chojan Shang 的个人「计算机科学与技术」知识库和�
 
 _**WIP**_
 
+### 目录
+
+- [语言](./language/)
+  - [Go](./language/go/)
+  - [Rust](./language/rust/)
+- [计算机基础](./fundamental/)
+  - [数据结构](./fundamental/data_structure/)
+  - [计算机组成原理](./fundamental/computer_organization/)
+  - [操作系统](./fundamental/operating_system/)
+  - [计算机网络](./fundamental/computer_network/)
+
 ### 相关信息
 
 Chojan Shang - [@PsiACE](https://github.com/PsiACE) - <psiace@outlook.com>
